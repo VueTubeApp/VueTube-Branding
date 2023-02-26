@@ -47,6 +47,6 @@ Before using VueTube's brand guidelines and brand kit, please review our [Licens
 - ⚠️ The license is subject to change at any time without notice.
 
 ## 📩 Contact Us
-If you have any questions or feedback about VueTube's brand guidelines or brand kit, please reach out to us. We'd love to hear from you! You can contact us on our https://vuetube.app/discord.
+If you have any questions or feedback about VueTube's brand guidelines or brand kit, please reach out to us. We'd love to hear from you! You can contact us on our [Discord server](https://vuetube.app/discord).
 
 Thanks again for visiting VueTube's Brand Center. We look forward to seeing how you use our brand resources to promote VueTube or VueTube-related projects.
