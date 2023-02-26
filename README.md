@@ -28,23 +28,23 @@ Before using VueTube's brand guidelines and brand kit, please review our [Licens
 
 ### 📋 At a glance
 
-> ✔️ You **may** use our brand resources to promote VueTube or VueTube-related projects in good faith without any prior permission.
->
-> ✔️ You **may** alter the resources in ways described within the guidelines.
->
-> ❌ You **may not** use our brand resources in any way that is deceptive, defamatory, or otherwise objectionable.
->
-> ❌ You **may not** use our brand resources in a way that implies endorsement or affiliation with third-party products, services, or entities without prior **written** consent.
->
-> ❌ You **may not** alter the resources in ways not described in the guidelines
-> 
-> ⚠️ You must adhere to the latest version of the brand guidelines at all times.
->
-> ⚠️ VueTube retains all rights to our brand resources.
->
-> ⚠️ VueTube reserves the right to request you to halt the use of our resources at any time for any reason.
->
-> ⚠️ This license is subject to change at any time without notice.
+- ✔️ You **may** use our brand resources to promote VueTube or VueTube-related projects in good faith without any prior permission.
+
+- ✔️ You **may** alter the resources in ways described within the guidelines.
+
+- ❌ You **may not** use our brand resources in any way that is deceptive, defamatory, or otherwise objectionable.
+
+- ❌ You **may not** use our brand resources in a way that implies endorsement or affiliation with third-party products, services, or entities without prior **written** consent.
+
+- ❌ You **may not** alter the resources in ways not described in the guidelines 
+
+- ⚠️ You must adhere to the latest version of the brand guidelines at all times.
+
+- ⚠️ VueTube retains all rights to our brand resources.
+
+- ⚠️ VueTube reserves the right to request you to halt the use of our resources at any time for any reason.
+
+- ⚠️ The license is subject to change at any time without notice.
 
 ## 📩 Contact Us
 If you have any questions or feedback about VueTube's brand guidelines or brand kit, please reach out to us. We'd love to hear from you! You can contact us on our https://vuetube.app/discord.
