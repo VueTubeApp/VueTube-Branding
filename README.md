@@ -14,7 +14,7 @@
   </a>
 </p>
 
-# 🖌️ Welcome to VueTube Brand Center!
+# 🖌️ Welcome to the VueTube Brand Center!
 Thank you for visiting VueTube's Brand Center, where you can access our brand guidelines and brand kit. We are excited to share our brand resources with you, and we hope that they help you promote VueTube or VueTube-related projects effectively.
 
 ## 👀 About VueTube Brand Guidelines
