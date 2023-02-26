@@ -21,7 +21,7 @@ Thank you for visiting VueTube's Brand Center, where you can access our brand gu
 VueTube's brand guidelines define our brand identity and provide guidance on how to use our brand assets, such as our logo, typography, and color palette. The guidelines ensure consistency and help maintain the integrity of our brand.
 
 ## 🎨 About VueTube Brand Kit
-The VueTube brand kit contains various brand assets, such as logo files, icons, and wordmarks. You're free to use them to promote VueTube or VueTube-related projects. You can download the kit from [the releases section](https://github.com/VueTubeApp/branding/releases/latest) or [access it directly on Figma](https://www.figma.com/file/YMn2mYfLGHFbTAsnMAadfT/VueTube-Brandkit-%2B-Style-Guide?node-id=13%3A867&t=wUCnsukXvDXaD5GU-1).
+The VueTube brand kit contains various brand assets, such as logo files, icons, and wordmarks. You're free to use them to promote VueTube or VueTube-related projects. You can download the kit from [the releases section](https://github.com/VueTubeApp/branding/releases/latest) or [access it directly on Figma](https://www.figma.com/file/YMn2mYfLGHFbTAsnMAadfT/VueTube-Brandkit-%2B-Style-Guide?node-id=0%3A1&t=9WEDfrbVf3wVnTQF-1).
 
 ## 📝 License Agreement
 Before using VueTube's brand guidelines and brand kit, please review our [License Agreement](./LICENSE.md) carefully. By using our resources, you agree to be bound by the Agreement.
